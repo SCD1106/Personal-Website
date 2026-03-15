@@ -1,7 +1,8 @@
 ---
-title: "Welcome to my Personal Website!"
+title: "Home"
 ---
 
+## Welcome to my Personal Website!
 This website belongs to Song Chendi, a 23 years old Chinese young person.
 
 All rights reserved, and infringement will be peosecuted.
