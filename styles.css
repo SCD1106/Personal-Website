@@ -1,0 +1,24 @@
+/* css styles */
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans SC", sans-serif;
+  color:#2c3e50;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .8);
+}
+
+h1 {
+  font-size: 2.2rem;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 0.3rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 1.5rem;
+}
+
+body {
+  font-size: 1.05rem;
+  background-color: #fdfdfd;
+}
