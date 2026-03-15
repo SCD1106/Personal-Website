@@ -6,8 +6,8 @@ website:
   title: "Song Chendi's Website"
   navbar:
     left:
-      - text:"Home"
-        href: index.qmd
+      - href: index.qmd
+      - text:"Home" 
       - about.qmd
 
 format:
