@@ -1,0 +1,26 @@
+---
+title: "Welcome to my Personal Website!"
+---
+
+This website belongs to Song Chendi, a 23 years old Chinese young person.
+
+All rights reserved, and infringement will be peosecuted.
+
+
+### Basic Information
+Name: Song Chendi
+
+Major: Agricultural Informatization
+
+School: Huazhong Agricultural University
+
+E-mail: songchendi@webmail.hzau.edu.cn
+
+### Interests
+Professional: Remote Sensing in Agriculture
+
+Sports: Hiding, Citywalking, Table Tennis
+
+Arts: Singing, Photographing, Writing
+
+Relaxation: Reading
